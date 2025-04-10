@@ -25,7 +25,7 @@ MyFirstMCP/
 
 ## Configuration
 
-To use this MCP server with Visual Studio Code, add the following configuration to your `.vscode/settings.json`:
+To use this MCP server with Visual Studio Code, add the following configuration to your `./claude/claude_desktop_config.json`:
 
 ```json
 {
